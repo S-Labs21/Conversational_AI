@@ -58,6 +58,5 @@ Follow the notebook cells to start the web app. This will launch a Gradio interf
 - Emotion-based response modulation
 - Human-like TTS
 
-Hope you have an Interactive Conversation!
-Feel free to open issues or pull requests. Contributions are welcome!
+---
 
