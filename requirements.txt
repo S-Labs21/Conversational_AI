@@ -1,0 +1,8 @@
+transformers
+torch
+pydub
+huggingface
+elevenlabs
+speechrecognition
+gradio
+sympy
