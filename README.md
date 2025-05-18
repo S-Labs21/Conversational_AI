@@ -1,13 +1,13 @@
-# Conversational_AI
+# Conversational AI- Research Project 
 
 A conversational AI system built with the following key components:
 
-- 1) **Speech-to-Text (STT)** 
-- 2) **Text-to-Speech (TTS)** using ElevenLabs
-- 3) **LLM Backend**: `meta-llama/Llama-3.2-1B-Instruct` from Hugging Face
-- 4) **Session & Memory Management** using User ID
-- 5) **Emotion Detection** using `bhadresh-savani/distilbert-base-uncased-emotion`using Hugging Face
-- 6) **Gradio Interface** for a user-friendly web app experience
+- **Speech-to-Text (STT)** 
+- **Text-to-Speech (TTS)** using ElevenLabs
+- **LLM Backend**: `meta-llama/Llama-3.2-1B-Instruct` from Hugging Face
+- **Session & Memory Management** using User ID
+- **Emotion Detection** using `bhadresh-savani/distilbert-base-uncased-emotion`using Hugging Face
+- **Gradio Interface** for a user-friendly web app experience
 
 This AI assistant listens, understands, analyzes emotion, remembers past conversations, and responds naturally with human-like speech.
 
@@ -39,7 +39,9 @@ pip install -r requirements.txt
 4. **Setup API keys in app.ipynb**
 
 5. **Usage**
-notebook : app.ipynb
+
+Jupyter notebook : app.ipynb
+
 Follow the notebook cells to start the web app. This will launch a Gradio interface in your browser where you can:
 1) Start the conversation only after entering a User ID eg. 1
 2) Use microphone input or type your query
@@ -47,12 +49,12 @@ Follow the notebook cells to start the web app. This will launch a Gradio interf
 
 
 ## Future Enhancements
-Long-term vector memory storage
-RAG model
-Multilingual support
-Android Application
-Emotion-based response modulation
-Human-like TTS
+- Long-term vector memory storage
+- RAG model
+- Multilingual support
+- Android Application
+- Emotion-based response modulation
+- Human-like TTS
 
 Hope you have an Interactive Conversation!
 Feel free to open issues or pull requests. Contributions are welcome!
