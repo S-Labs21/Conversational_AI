@@ -25,11 +25,13 @@ Before running this project, ensure you have:
 1. **Clone the Repository**
 
 git clone https://github.com/yourusername/Conversational_AI.git
+
 cd Conversational_AI
 
 2. **Create a Virtual Environment (optional)**
 
 python -m venv venv
+
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 3. **Install Dependencies**
