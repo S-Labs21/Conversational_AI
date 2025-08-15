@@ -1,4 +1,4 @@
-# Conversational AI- Research Project 
+# Conversational AI
 
 A conversational AI system built with the following key components:
 
