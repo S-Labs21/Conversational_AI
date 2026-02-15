@@ -13,6 +13,9 @@ This AI assistant listens, understands, analyzes emotion, remembers past convers
 
 ---
 
+<img width="1500" height="880" alt="image" src="https://github.com/user-attachments/assets/93c086b4-e9e8-4d32-a6b1-da3170829c3b" />
+
+
 ## 🛠 Requirements
 Before running this project, ensure you have:
 1. A **Hugging Face API Token** (to access LLaMA and Emotion models)
