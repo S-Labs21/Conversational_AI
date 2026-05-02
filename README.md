@@ -13,6 +13,12 @@ This AI assistant listens, understands, analyzes emotion, remembers past convers
 
 ---
 
+<img width="959" height="481" alt="Screenshot 2026-05-02 200108" src="https://github.com/user-attachments/assets/8dfdde57-82c0-4ffc-a906-5a7a536b9b76" />
+
+
+<br><br>
+
+
 <img width="1500" height="880" alt="image" src="https://github.com/user-attachments/assets/93c086b4-e9e8-4d32-a6b1-da3170829c3b" />
 
 
